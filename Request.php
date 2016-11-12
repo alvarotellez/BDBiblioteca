@@ -6,6 +6,7 @@
  * Date: 12/11/16
  * Time: 7:59
  */
+//ESTA CLASE ES LA ENCARGADA DE SACAR LOS DATOS NECESARIOS QUE NOS ENVIA EL CLIENTE
 class Request
 {
     private $url_elements;
