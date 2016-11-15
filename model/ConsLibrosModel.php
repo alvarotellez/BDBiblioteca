@@ -8,5 +8,9 @@
  */
 class ConsLibrosModel
 {
-
+    const TABLE_NAME="LIBROS";
+    const ISBN = "ISBN";
+    const TITULO = "TITULO";
+    const EJEMPLARES = "EJEMPLARES";
+    const PRECIO = "PRECIO";
 }
