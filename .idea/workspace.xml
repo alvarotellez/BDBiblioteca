@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5e965e3-533a-4bf8-bd80-c327a637089f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/LibroModel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/ConsLibrosModel.php" afterPath="$PROJECT_DIR$/model/ConsLibrosModel.php" />
-    </list>
+    <list default="true" id="b5e965e3-533a-4bf8-bd80-c327a637089f" name="Default" comment="" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -310,7 +306,7 @@
       <workItem from="1478939689870" duration="2223000" />
       <workItem from="1478969193251" duration="818000" />
       <workItem from="1478970346676" duration="2047000" />
-      <workItem from="1479235092524" duration="1233000" />
+      <workItem from="1479235092524" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="Request terminado">
       <created>1478934421846</created>
@@ -340,11 +336,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478972800128</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Falta el handler del model y el model de la Data Base">
+      <created>1479236389795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1479236389795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8218000" />
+    <option name="totallyTimeSpent" value="8245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="23" width="1366" height="745" extended-state="6" />
@@ -385,7 +388,8 @@
     <MESSAGE value="Request terminado" />
     <MESSAGE value="Response terminado y reques mejor explicado por comentarios" />
     <MESSAGE value="Modificaciones 12-11-2016&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificaciones 12-11-2016&#10;" />
+    <MESSAGE value="Falta el handler del model y el model de la Data Base" />
+    <option name="LAST_COMMIT_MESSAGE" value="Falta el handler del model y el model de la Data Base" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
